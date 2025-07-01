@@ -2,7 +2,7 @@
 
 <p align="center">
   🧑‍💻 Aspiring Cyber Security Analyst & Ethical Hacker <br>
-  🔐 A-Level Student | CyberSec Projects | BTEC IT (D*D*) <br>
+  🔐 A-Level Student | CyberSec Projects | CTEC IT (D*D*) <br>
   📚 Learning: Python, Bash, HTML, Node.js | Building Cyber Tools
 </p>
 
